@@ -29,8 +29,8 @@ Refund: YYYYMMdd_VENDOR_CATEGORY_RET_$X.XX.png
 
 | date | filename | vendor | category | amount | items | refund | payment_method |
 |------|----------|--------|----------|--------|-------|--------|----------------|
-| 05/22/2026 | 20260522_DOLLARTREE_HARDWARE_$3.25.png | DOLLARTREE | HARDWARE | $3.25 | Super Glue 2G 4PK, Masking Tape 4FT | | CHASE VISA x0973 |
-| 05/28/2026 | 20260528_HOMEDEPOT_HARDWARE_RET_$39.04.png | HOMEDEPOT | HARDWARE | $39.04 | Lumber 2x6x8ft, Concrete Mix 60lb | REFUND | CHASE VISA x0973 |
+| 05/22/2026 | 20260522_DOLLARTREE_HARDWARE_$3.25.png | DOLLARTREE | HARDWARE | $3.25 | Super Glue 2G 4PK, Masking Tape 4FT | | CHASE VISA x0873 |
+| 05/28/2026 | 20260528_HOMEDEPOT_HARDWARE_RET_$39.04.png | HOMEDEPOT | HARDWARE | $39.04 | Lumber 2x6x8ft, Concrete Mix 60lb | REFUND | CHASE VISA x0873 |
 
 ---
 
