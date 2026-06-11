@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(New-Item -ItemType Directory -Force \"C:\\\\Users\\\\pvisuth\\\\Claude\\\\Projects\\\\Shiney\\\\.claude\\\\skills\")",
+      "Bash(Out-Null)",
+      "Bash(Copy-Item -Recurse -Force \"C:\\\\Users\\\\pvisuth\\\\Downloads\\\\Claude Skills-20260611T051246Z-3-001\\\\Claude Skills\\\\*\" \"C:\\\\Users\\\\pvisuth\\\\Claude\\\\Projects\\\\Shiney\\\\.claude\\\\skills\\\\\"; Write-Output \"Done\")",
+      "Bash(git -C \"C:\\\\Users\\\\pvisuth\\\\Claude\\\\Projects\\\\Shiney\" status)",
+      "Bash(gh auth *)"
+    ]
+  }
+}
